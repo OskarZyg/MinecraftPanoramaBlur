@@ -9,7 +9,9 @@ A program to blur minecraft panorama screenshots
 **pip/3 Installation**
 
 > `pip/3 install pillow`
+
 > `pip/3 install opencv-python`
+
 > `pip/3 install numpy`
 ## Configuration
 1. Create an `output` folder.
