@@ -21,19 +21,33 @@ A program to blur minecraft panorama screenshots
 3. Resize your minecraft window to 922x922
 4. Do the following in minecraft (Do not move the player!):
 > Press F1
+
 > `/tp @p ~ ~ ~ 0 0`
+
 > Press F2
+
 > `/tp @p ~ ~ ~ 90 0`
+
 > Press F2
+
 > `/tp @p ~ ~ ~ 180 0`
+
 > Press F2
+
 > `/tp @p ~ ~ ~ 270 0`
+
 > Press F2
+
 > `/tp @p ~ ~ ~ 0 -90`
+
 > Press F2
+
 > `/tp @p ~ ~ ~ 0 90`
+
 > Press F2
+
 > Press F1
+
 3. Open your minecraft `screenshots` folder. If you cleared it, copy and paste all the files from there and put them into the same directory as `main.py`.
 4. Rename all the files accordingly:
 - North → `panorama_0.png.pale`
